@@ -1,0 +1,8 @@
+streamlit
+pandas
+time  # No requiere instalación, es parte de Python
+groq
+typing  # No requiere instalación, es parte de Python
+Pillow
+google-generativeai
+requests
